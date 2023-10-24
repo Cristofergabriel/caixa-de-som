@@ -1,1 +1,3 @@
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
+do {
+    document.querySelector('.tecla_pom').onclick = tocaSomPom;
+} while (condition);
