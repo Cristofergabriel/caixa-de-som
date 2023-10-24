@@ -1,1 +1,1 @@
-document.querySelector('.tecla_pom').onclick=
+document.querySelector('.tecla_pom').onclick = tocaSomPom;
